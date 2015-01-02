@@ -81,6 +81,7 @@ Format:
 | Bikram Adhikari | [meadhikari](https://github.com/meadhikari) | University Student, interested in Python and Android.  |
 | Bipol Alam | [bipolalam](https://github.com/bipolalam) |Student pursuing Comp Sci B.S. C++ and Android |
 | Bharath Thiruveedula | [bharathves](https://github.com/bharathves) ||
+| Biswadip Dasgupta | [bisd](https://github.com/bisd) | I have 1-2 years experience programming with PHP. I would like to contribut to the open source community. |
 | Brandon Luth | [brandonl](https://github.com/brandonl) ||
 | Brandon	Roberts | [dino217](https://github.com/dino217) | New to programming. Starting off learning Ruby. |
 | Brandon Sachtleben | [bsachtle](https://github.com/bsachtle) | Self-taught. JavaScript enthusiast. Some knowledge of C, C++, Java, and 3D development. Looking to contribute and learn much more. |
